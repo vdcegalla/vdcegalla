@@ -7,7 +7,6 @@
 </div>
 
 #### Let me share a bit of my journey:
-- 💼 I’m currently working at Siemens as Intern of Development of Systems;
 - 🌱 I’m currently deepening my knowledge in Java, web technologies, and SQL;
 - 🌱 I'm studying Technology in Systems Analysis and Development at [UNICAMP](https://unicamp.br).
 - 🎓 I'm graduated on technical high school at [ETEC Bento Quirino](https://etecbentoquirino.com.br/new/).
@@ -19,6 +18,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
 
