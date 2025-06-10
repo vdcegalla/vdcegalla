@@ -7,6 +7,7 @@
 </div>
 
 #### Let me share a bit of my journey:
+- 💼 I’m currently working at Siemens as Intern of Development of Systems;
 - 🌱 I’m currently deepening my knowledge in Java, web technologies, and SQL;
 - 🌱 I'm studying Technology in Systems Analysis and Development at [UNICAMP](https://unicamp.br).
 - 🎓 I'm graduated on technical high school at [ETEC Bento Quirino](https://etecbentoquirino.com.br/new/).
